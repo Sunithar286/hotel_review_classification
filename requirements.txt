@@ -3,22 +3,25 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "f8d5ce05",
+   "id": "5db0e9c6",
    "metadata": {},
    "outputs": [],
    "source": [
-    "python-3.10.6\n",
-    "anaconda-navigator==2.1.4\n",
-    "numpy==1.19.5\n",
-    "xlrd<2.0\n",
-    "nltk>=3.6.4\n",
-    "spacy==3.0.6\n",
-    "pandas==1.2.4\n",
-    "streamlit\n",
-    "scipy==1.6.2\n",
-    "imbalanced_learn==0.8.0\n",
+    "nltk==3.6.5\n",
+    "tensorflow==2.9.1\n",
+    "imbalanced-learn==0.9.1\n",
     "imblearn==0.0\n",
-    "scikit_learn==1.0\n"
+    "spacy==3.4.1\n",
+    "streamlit==1.9.0\n",
+    "tensorflow==2.9.1\n",
+    "conda==4.12.0\n",
+    "conda-build==3.21.6\n",
+    "textblob\n",
+    "sklearn\n",
+    "numpy\n",
+    "pandas\n",
+    "seaborn\n",
+    "mathplotlib"
    ]
   }
  ],
