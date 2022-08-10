@@ -3,7 +3,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "db6bf746",
+   "id": "dd349353",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -11,7 +11,7 @@
     "xlrd<2.0\n",
     "nltk>=3.6.4\n",
     "spacy==3.0.6\n",
-    "https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.0.0/en_core_web_sm-3.0.0.tar.gz#egg=en_core_web_sm\n",
+    "\n",
     "pandas==1.2.4\n",
     "streamlit\n",
     "scipy==1.6.2\n",
