@@ -1,0 +1,8 @@
+imblearn
+spacy
+sklearn
+scikit-learn
+wasabi
+numpy
+nltk
+pandas
