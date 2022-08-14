@@ -1,0 +1,17 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Aug 14 11:25:38 2022
+
+@author: Suneetha
+"""
+
+en-core-web-sm @ file:///opt/conda/conda-bld/spacy-model-en_core_web_1651852659725/work/sm
+imblearn==0.0
+spacy==3.4.1
+sklearn==0.0
+scikit-learn==1.1.2
+wasabi==0.8.2
+conda==4.13.0
+numpy==1.21.5
+nltk>=3.7
+pandas==1.4.2
